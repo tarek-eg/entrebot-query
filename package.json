@@ -13,7 +13,7 @@
     "@dfinity/agent": "^0.10.0",
     "@dfinity/candid": "^0.10.0",
     "@dfinity/principal": "^0.10.0",
-    "node-fetch": "^2.6.2"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "@types/node": "^16.10.1",
